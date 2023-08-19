@@ -1,0 +1,62 @@
+
+/* // dont touch change anything below */
+.vranger:hover {
+  opacity: 1;
+}
+
+.vranger::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 12px;
+  height: 12px;
+  background: #efefef;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.vranger::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  background: #04AA6D;
+  cursor: pointer;
+}
+
+
+.lranger:hover {
+  opacity: 1;
+}
+
+.lranger::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 14px;
+  height: 14px;
+  background: #efefef;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.lranger::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  background: #04AA6D;
+  cursor: pointer;
+}
+
+
+
+
+.icon {
+  width: 17px;
+  height: 17px;
+}
+
+
+div#htmlvideoplayerjs {
+    display: flex;
+    font-size: 60px;
+    font-family: sans-serif;
+    font-weight: bold;
+    width: 100%;
+    padding: 120px;
+}
