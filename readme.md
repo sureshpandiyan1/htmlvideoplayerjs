@@ -5,6 +5,9 @@ htmlvideoplayerjs is just simple plugin for making your video have some controls
 if you like it, give a star ★
 
 
+# screenshot
+<img width="322" alt="Screenshothvp" src="https://github.com/sureshpandiyan1/htmlvideoplayerjs/assets/112636345/517ab418-8fd2-4bcd-a803-64f7df981462">
+
 
 # first you should read this below
     <format for htmlvideoplayer js>
