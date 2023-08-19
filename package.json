@@ -1,0 +1,23 @@
+{
+  "name": "htmlvideoplayerjs",
+  "version": "1.0.0",
+  "description": "simple plugin for making your video have some controls",
+  "main": "./src/hvp.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sureshpandiyan1/htmlvideoplayerjs.git"
+  },
+  "keywords": [
+    "jsplugins","video","videoplayer","htmlvideo","html","web","webplayer","easy"
+  ],
+  "author": "suresh p",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/sureshpandiyan1/htmlvideoplayerjs/issues"
+  },
+  "homepage": "https://github.com/sureshpandiyan1/htmlvideoplayerjs/"
+}
