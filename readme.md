@@ -6,7 +6,7 @@ if you like it, give a star ★
 
 
 # screenshot
-<img width="322" alt="Screenshothvp" src="https://github.com/sureshpandiyan1/htmlvideoplayerjs/assets/112636345/517ab418-8fd2-4bcd-a803-64f7df981462">
+<img width="500" alt="Screenshot 2023-08-19 203417" src="https://github.com/sureshpandiyan1/htmlvideoplayerjs/assets/112636345/7a303edb-7b6a-4f6a-9933-6fd5f0773811">
 
 
 # first you should read this below
