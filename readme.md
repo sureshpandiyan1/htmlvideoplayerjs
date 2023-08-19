@@ -5,7 +5,7 @@ htmlvideoplayerjs is just simple plugin for making your video have some controls
 if you like it, give a star ★
 
 
-# NPM
+## npm
     https://www.npmjs.com/package/htmlvideoplayerjs
     
 # screenshot
