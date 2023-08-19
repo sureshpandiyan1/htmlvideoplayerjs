@@ -22,7 +22,10 @@ if you like it, give a star ★
 
 # how to use it
 
-    // first you need to download icons  from my github repo - [icons]
+    // first you need to download icons  from github repo - [foldername: icons]
+    // second, you should to download stylesheet for htmlvideoplayerjs from github repo - [foldername: playerstyles]
+
+    // we want to make sure all things loaded properly for htmlvideoplayerjs
 
     import htmlvideoplayerjs from 'htmlvideoplayerjs'
 
