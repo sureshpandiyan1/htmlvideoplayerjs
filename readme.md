@@ -5,15 +5,23 @@ htmlvideoplayerjs is just simple plugin for making your video have some controls
 if you like it, give a star ★
 
 
+# NPM
+    https://www.npmjs.com/package/htmlvideoplayerjs
+    
 # screenshot
-<img width="500" alt="Screenshot 2023-08-19 203417" src="https://github.com/sureshpandiyan1/htmlvideoplayerjs/assets/112636345/7a303edb-7b6a-4f6a-9933-6fd5f0773811">
+
+![htmlplayerscreenshot](https://user-images.githubusercontent.com/112636345/261805006-7a303edb-7b6a-4f6a-9933-6fd5f0773811.png)
 
 
 # first you should read this below
+
+    # PLEASE USE LATEST NPM PACKAGE
+
+    NOTE: it's supports only mp4, not other formats
     <format for htmlvideoplayer js>
     htmlvideoplayerjs(folderpath,tid,width,height,videoid,url)
 
-    folderpath => htmlvideoplayer js need a icons, you can download from github repo [folder name: icons ] and copy and paste into your folder ('images') EXAMPLE : ./myiconspath/<just copy all icons into myiconpath>
+    folderpath => htmlvideoplayer js need a icons, you can download from github repo [folder name: icons ] and copy and paste into your folder ('images') EXAMPLE : ./<yourfolderpath>/<just copy all icons into myiconpath>
     you can name your folder whatever you want, but you must pass the full path where icons located on your project'
 
     tid => target id  ('thevideo')
@@ -30,10 +38,10 @@ if you like it, give a star ★
 
     // we want to make sure all things loaded properly for htmlvideoplayerjs
 
-    import htmlvideoplayerjs from 'htmlvideoplayerjs'
+    import htmlvideoplayer from 'htmlvideoplayerjs'
 
 
-    const myvideo = htmlvideoplayerjs
+    const myvideo = htmlvideoplayer
     myvideo('images', 'thevideo', '400','auto', 'video', 'beautifulcity.mp4')
 
 
