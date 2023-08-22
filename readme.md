@@ -7,10 +7,6 @@ if you like it, give a star ★
 
 ## npm
     https://www.npmjs.com/package/htmlvideoplayerjs
-    
-# screenshot
-
-![htmlplayerscreenshot](https://user-images.githubusercontent.com/112636345/261805006-7a303edb-7b6a-4f6a-9933-6fd5f0773811.png)
 
 
 # first you should read this below
